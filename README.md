@@ -1,6 +1,6 @@
 # shamo
 
-A new Flutter project.
+Hasil dari pembelajaran di BuildWithAngg sebagai Portofolio saya untuk menjadi Junior Flutter Developer
 
 ## Getting Started
 
